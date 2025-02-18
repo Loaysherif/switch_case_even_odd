@@ -1,4 +1,4 @@
-# Number Categorizer
+  # Number Categorizer
 
 This Dart program categorizes a list of numbers into even or odd using a for loop and switch case.
 
@@ -15,5 +15,5 @@ Example output:
 2 is even
 3 is odd
 4 is even
-![image](https://github.com/user-attachments/assets/40a33dc2-d3f1-48c0-817a-28b5356aaf45)
+![image](https://github.com/user-attachments/assets/89b95189-5c3f-4101-b5bf-cc8e0c84e740)
 
